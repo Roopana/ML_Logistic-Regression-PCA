@@ -1,5 +1,5 @@
 # Logistic Regression & PCA
-- Compare 2 Class Logistic Regression built using numpy and scipy libraries with Scikit's Logistic Regression
+- Build Logistic Regression classification model using numpy, scipy libraries and compare with sci-kit's Logistic Regression
 - Perform PCA using Mixture of Gaussian models  
 
 ## Logistic Regression 
