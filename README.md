@@ -20,5 +20,5 @@ where __μˆ = n1 \
 xj__ is the mean of the data points
 
 ## Datasets
-- Boston housing Dataset
-- Digits dataset
+- [Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+- [Digits dataset](http://yann.lecun.com/exdb/mnist/)
