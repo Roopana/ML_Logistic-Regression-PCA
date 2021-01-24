@@ -1,4 +1,4 @@
-# LogisticRegression & PCA
+# Logistic Regression & PCA
 - Compare my 2 Class Logistic Regression with Scikit's Logistic Regression using Boston housing dataset
 - Perform PCA using Mixture of Gaussian models 
 
