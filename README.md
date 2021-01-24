@@ -8,4 +8,11 @@ __P(1|x)= exp(wTx+w0) / 1+exp(wTx+w0)__ \
 and __P(0|x) = 1 − P(1|x)__
 
 ## PCA
+Compute a PCA projection Z ∈ Rd×n, d ≤ D of the original data X ∈ RD×n so that α% of the variance is preserved in the projected space. Develop code only using numpy and scipy libraries. 
 
+The feature covariance matrix of the data can be computed as:
+Σ=1/n Σ(xj−μˆ)(xj−μˆ)T
+
+where μˆ = n1 \
+􏰉nj=1 \
+xj is the mean of the data points
