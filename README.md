@@ -1,2 +1,11 @@
-# ML_MyLogisticRegression
-Compare my 2 Class Logistic Regression with Scikit's Logistic Regression using Boston housing dataset
+# LogisticRegression & PCA
+- Compare my 2 Class Logistic Regression with Scikit's Logistic Regression using Boston housing dataset
+- Perform PCA using Mixture of Gaussian models 
+
+## Logistic Regression 
+Build a 2 class Logistic Regression classification model without using sci-kit library functions. Develop code with a set of parameters (w,w0) where w ∈ Rd, w0 ∈ R. Assuming the two classes are {0,1}, and the data x ∈ Rd, the posterior probability of class C1 is given by
+__P(1|x)= exp(wTx+w0) / 1+exp(wTx+w0)__ \
+and __P(0|x) = 1 − P(1|x)__
+
+## PCA
+
